@@ -1,0 +1,14 @@
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\obj\Debug\Sample_8.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\obj\Debug\Sample_8.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\bin\Debug\Sample_8.exe.config
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\bin\Debug\Sample_8.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\bin\Debug\Sample_8.pdb
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\obj\Debug\Sample_8.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async\Sample_8\obj\Debug\Sample_8.pdb
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\obj\Debug\Sample_8.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\obj\Debug\Sample_8.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\obj\Debug\Sample_8.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\obj\Debug\Sample_8.pdb
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\bin\Debug\Sample_8.exe.config
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\bin\Debug\Sample_8.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_8 - async and Task\Sample_8\bin\Debug\Sample_8.pdb
